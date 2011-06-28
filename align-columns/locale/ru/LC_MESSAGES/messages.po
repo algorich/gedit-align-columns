@@ -32,5 +32,5 @@ msgstr ""
 
 #: align-columns/__init__.py:55
 msgid "Align columns"
-msgstr "Выравнять колонки"
+msgstr "Выравнять столбцы"
 
