@@ -18,7 +18,7 @@
 # This Makefile was based on the Zoom plugin Makefile from Christian Luginbühl
 
 # Version of the program (to be updated when creating new packages)
-VERSION=0.1.0
+VERSION=0.2.0
 
 # Name of the program
 APPLICATION=gedit-align-columns
