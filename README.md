@@ -19,7 +19,7 @@ may change. Sometimes the columns become a mess like this:
     | Rodrigo Manhães | rmanhaes@gmail.com |      (22) 2626-2626|
 
 Whit this plugin you just need to select the examples text block, press
-**Ctrl+Alt+a** and the result should be:
+**Ctrl+Shift+a** and the result should be:
 
     | name                | email                    | phone          |
     | Hugo Maia Vieira    | hugomaiavieira@gmail.com | (22) 2727-2727 |
