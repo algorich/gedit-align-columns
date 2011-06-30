@@ -3,6 +3,9 @@
 This is a Gedit plugin for align text blocks into columns separated by
 pipe ( | ).
 
+It is included in the [Gmate](http://github.com/gmate/gmate) package, a set of
+plugins and improvements to make Gedit a powerfull programmer text editor.
+
 ## Usage
 
 Let's say you're using Cucumber (or some Cucumber like) to write the functional
