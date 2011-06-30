@@ -57,7 +57,7 @@ class WindowHelper:
         action_align_columns.connect('activate', self.on_align_columns_activate)
 
         self._action_group.add_action_with_accel(action_align_columns,
-                                                 '<Control><Shift>a')
+                                                 '<Shift><Alt>a')
 
         manager.insert_action_group(self._action_group)
 

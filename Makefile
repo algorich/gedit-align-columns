@@ -96,7 +96,6 @@ mrproper: clean
 # Installs the plugin in ~/.gnome2/gedit/plugins
 install: uninstall
 	tar zxfv dist/$(APPLICATION)-$(VERSION).tar.gz -C ~/.gnome2/gedit/plugins
-	rm ~/.gnome2/gedit/plugins/README.md
 
 # Symlinks the development version of the plugin in ~/.gnome2/gedit/plugins
 install-dev: uninstall
